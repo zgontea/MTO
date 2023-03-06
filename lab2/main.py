@@ -17,7 +17,7 @@ def my_printf(format_string, param):
                 print(param.swapcase()[:stringMaxLen], end = "")
                 shouldDo += 3
             else:
-                print(currCharacter.swapcase(), end = "")
+                print(currCharacter, end = "")
         else:
             if shouldDo > 0:
                 shouldDo -= 1
