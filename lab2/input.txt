@@ -1,20 +1,20 @@
-totafsdfsf #k fdsfsdf
+siema TU #.5k witam
+jANekgontarek
+test NA koncu #.2k
+koNiec
+#.1k test na poczatku
+Poczatek czy git?
+bad FORMAT string #..k
+bad
+len value greater than actual param len #.9k
+sHOrt
+len value equals 0 #.0k
+string
+len value no digits #.-k
+TestTestTest
+swap #k case
+SwapMe
+no format string
 test
-totafsd#k fdsfsdf fdfjs
-test2
-jfldjfldk # wynik
-test3
-fjdfsfds # k alal
-test4
-djfjkldsjf #k jjjjjj fsfjdljfdlsj flj ldfj
-test5
-gjjkdsljflds #k jdlkfjdslf
-test6
-fjdslkfjdl #k tttttt
-test7
-fjdlsjfkl #k oooolll
-test8
-rwrewrew #k fjdslkjfdl
-test9
-fjdlskjfldjflj #k rewrewrew
-test10
+wrong format string #.5s
+wrong
